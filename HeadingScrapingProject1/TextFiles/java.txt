@@ -1,0 +1,38 @@
+......................H1'S H2'S H3'S ............................
+Java Technical Details
+Java Is the Language of Possibilities
+What's New in Java
+Java Technical Details
+Technologies
+Join Oracle for the online developer event series to advance your coding skills
+Java Tutorial
+Tutorials
+HTML and CSS
+Learn Java Programming
+About Java Programming
+Learn Java practically 
+                        and Get Certified.
+Java (programming language)
+Contents
+Principles[edit]
+Learn Java
+Popular course topics
+Articles
+Java Tutorial
+Java Tutorial
+Feedback
+Java 19 is Here!
+The Destination for Java Developers
+Get Started
+Java Versions and Features
+Practical Information
+TL;DR I only want a download link and know about everything else. Where should I go?
+How Do I Compare Strings in Java?
+Introduction
+Learn more about comparing Strings in Java using the equals to (=) operator.
+How to Find Array Length in Java
+Java Tutorial
+Feedback
+The Java Language Environment
+  Introduction to Java TM Technology
+CHAPTER 1

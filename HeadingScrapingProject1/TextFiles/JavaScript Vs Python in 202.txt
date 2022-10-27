@@ -1,0 +1,239 @@
+......................H1'S H2'S H3'S ............................
+Python vs JavaScript: Making a Fair Comparison and Picking the Winner 
+------------------------https://radixweb.com/blog/python-vs-javascript Ends-----------------------
+JavaScript vs Python: Head-to-Head Comparison of the Most Popular Languages
+JavaScript and Python in 2021
+The State of JavaScript
+The State of Python
+Python vs JavaScript Salaries
+JS vs Python by Use Case
+Outsource Software Engineering with Iglu
+Python vs JavaScript: Head to Head
+Summary
+Python vs JavaScript in Web Development
+Python vs JavaScript in Data Science
+Python vs JavaScript in Native App Development
+Looking to hire Talented Digital Professionals for your projects?
+Related Posts
+
+
+Better Than India – An Outsourcing Case Study 
+
+
+
+How to learn Swift in 2021: Getting Started Guide 
+
+
+
+Get a Grip on your AWS Bill with Iglu’s Cloud Financial Management Services 
+
+
+
+R vs Python: What’s the Difference 
+
+
+
+Python vs Go: A Head-to-Head Comparison 
+
+------------------------https://iglu.net/javascript-vs-python/ Ends-----------------------
+------------------------https://www.quora.com/What-is-the-difference-between-JavaScript-and-Python Ends-----------------------
+Node.js vs. Python: How to choose the best technology to develop your backend
+
+What is Node.js?
+What is Python?
+Comparing architectures
+Concurrency and parallelism
+Over 200k developers use LogRocket to create better digital experiences
+Performance and speed
+Scalability
+Extensibility
+Static typing
+Community and libraries
+Common use cases
+Conclusion
+200’s only  Monitor failed and slow network requests in production
+Stop guessing why bugs happen with LogRocket
+
+Building a React live streaming app with 100ms
+
+
+How and why you should use Next.js with Django
+
+
+How to add Firebase to your Unity project
+
+
+4 Replies to “Node.js vs. Python: How to choose the best technology…” 
+Hi there! Would you be interested in learning how to configure ESLint and Prettier for TypeScript compiling?
+Node.js
+Python
+Verdict
+Node.js
+Python
+Verdict
+Node.js
+More great articles from LogRocket:
+Python
+Verdict
+Node.js
+Python
+Verdict
+Node.js
+Python
+Verdict
+Node.js
+Python
+Verdict
+Node.js
+Python
+Verdict
+Node.js
+Python
+Verdict
+Share this:
+Leave a Reply Cancel reply
+
+------------------------https://blog.logrocket.com/node-js-vs-python-how-to-choose-the-best-technology-develop-backend/ Ends-----------------------
+Top Python and Javascript Programming Bundle
+What you'll learn
+Requirements
+Description
+Who this course is for:
+Instructor
+------------------------https://www.udemy.com/course/python-and-javascript-programming-bundle/ Ends-----------------------
+Python VS JavaScript – What are the Key Differences Between The Two Popular Programming Languages?
+🔹 Python VS JavaScript: Real-World Applications 
+🔸 Python VS JavaScript: Syntax
+Code Blocks in Python and JavaScript
+Variable Definitions in Python and JavaScript
+Variable Naming Conventions in Python and JavaScript
+Constants in Python and JavaScript
+Data Types and Values in Python and JavaScript
+How to Write Comments in Python and JavaScript
+Built-in Data Structures in Python and JavaScript
+Operators in Python and JavaScript
+Input and Output in Python and JavaScript
+Conditional Statements in Python and JavaScript
+For Loops and While Loops in Python and JavaScript
+Functions in Python and JavaScript
+Object-Oriented Programming in Python and JavaScript
+Methods in Python and JavaScript
+🔹 To Summarize
+Python
+JavaScript
+Differences between the applications of Python and JavaScript
+How Python defines code blocks
+How JavaScript defines code blocks
+How to define a variable in Python
+How to define a variable in JavaScript
+How to name variables in Python
+How to name variables in JavaScript
+How to define constants in Python
+How to define constants in JavaScript
+Numeric Data Types
+None vs. null 
+The undefined Value 
+Primitive Data Types in Python and JavaScript
+Single-Line Comments
+Multi-Line Comments
+Tuples
+Lists vs. Arrays
+Hash Tables
+Floor Division
+Comparing Values and Types
+Logical Operators
+Type Operators
+Input
+Output
+if Statement
+if/else Statement
+Multiple Conditions
+Switch in JavaScript
+For Loops
+Iterating Over Iterables
+While Loops
+do..while Loops in JavaScript
+Number of Function Arguments
+Classes
+Constructor and Attributes
+Instances
+------------------------https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/ Ends-----------------------
+Programming Languages Ranking: Top 9 in 2022
+How Many Programming Languages Are There And What To Choose For Your Team  
+Top Programming Languages: Rankings In Comparison
+Top 9 Programming Languages 
+ 
+Conclusion
+Related Articles
+TIOBE Index 
+PYPL Index Ranking
+RedMonk’s Q1 2021
+1. Python 
+2. Java
+3. JavaScript
+4. C#
+5. C/C++
+6. PHP
+7. Swift 
+8. Objective-C 
+9. Kotlin
+iOS App Development: Steps to Make Your First App
+The Agile Software Development Life Cycle: All You Need to Know
+How Much Does Developing a Magento Website Cost?
+Are you our next superstar remote developer?
+------------------------https://distantjob.com/blog/programming-languages-rank/ Ends-----------------------
+Top 10 In-Demand programming languages to learn in 2020
+1. Python
+2. JavaScript
+3. Java
+4. C#
+5. C
+6. C++
+7. PHP
+8. Swift
+9. Go
+10. Ruby
+Similar articles:
+The Definitive Guide
+Python, JavaScript, Java, C#, C, C++, PHP, Swift, Go, Ruby
+Top 7 Modern programming languages to learn now
+Top 7 Modern programming languages to learn now
+21 Predictions about the Software Development Trends in 2021
+Top 5 In-Demand JavaScript Frameworks for Front-End Development in 2020
+Enjoy the read? Reward the writer.Beta
+Sign up for The Variable
+More from Towards Data Science
+Recommended from Medium
+Data Ingestion
+Day 11 - Instantiating (and then destroying) Game Objects in Unity
+TRIM and data recovery
+b3ginn3r’$_p1uck
+Complete Guide: How To Develop A Successful Ola Clone App?
+How to check version of your spring application on production
+Getting Started With AWS AppSync
+SpringBoot and AWS Elastic Beanstalk
+Get the Medium app
+Md Kamaruzzaman
+More from Medium
+My Top 5 Paid Subscriptions I’ll Never Cancel as a Programmer
+$150,000 Amazon Engineer vs. $300,000 Google Engineer
+13 Advanced Python Scripts For Everyday Programming
+SOLID Principles Sketches
+How Rust, Go, Kotlin, TypeScript, Swift, Dart, Julia can boost your career and improve your software development skills
+How Rust, Go, Kotlin, TypeScript, Swift, Dart, Julia can boost your career and improve your software development skills
+Cloud, Edge, Container, Quantum, Blockchain, AI, Deep Learning, Batch, Streaming, Database, Programming, Software…
+In-depth analysis and ranking of the top JavaScript frameworks for Front-end developers, job seekers and for…
+By Towards Data Science
+------------------------https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e Ends-----------------------
+R vs. Python for Data Science: Explainer & Learning Tips
+What’s the Difference Between Python and R?
+Python: The All-Purpose Programming Language
+3 Reasons to Learn Python for Data Science
+R: The Data Analysis Powerhouse
+3 Reasons to Learn R Programming for Data Science
+Which Programming Language Should I Learn, Python or R?
+Is Python or R Easier?
+Bottom Line: Python for Beginners, R for Research
+Related Articles
+At a Glance: Tips for Choosing Between Python and R
+------------------------https://blog.edx.org/r-vs.-python-for-data-science-explainer-learning-tips Ends-----------------------

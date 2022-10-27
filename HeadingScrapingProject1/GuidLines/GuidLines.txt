@@ -1,0 +1,22 @@
+A) Libraries Used:
+    1) Selenium
+    2) BS4
+    3) Selenium Stealth
+    4) Download chromedriver according to your googlechrome version from internet
+
+B)
+    1) To run script with Browser (options.headless = False) inside code
+    2) To run script without Browser (options.headless = True) inside code
+    Note: You can install chrome on your server to work without headless=False
+
+C)
+    1) Each TextFile is with name of your userInput Query
+    2) Heading choice will be entered by user from h1,h2,h3
+    3) When entering heading choice use ',' in between tags 
+
+D) 
+    1) All major parts are with comments to understand its functionality
+    2) TestScript has all print/logs to test the script while ProductionScript just performs the functionality.
+
+
+Feel Free to connect me for any further GuidLines.
