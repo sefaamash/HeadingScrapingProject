@@ -4,6 +4,10 @@ from selenium_stealth import stealth
 from selenium.webdriver.support.ui import WebDriverWait
 import csv
 import pandas as pd
+
+h1 = []
+h2 = []
+h3 = []
 # Array to store Links
 links = []
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
@@ -79,12 +83,6 @@ def Headings():
         print("......................{}'S {}'S {}'S ............................".format(headingChoice.split(
             ',')[0].upper(), headingChoice.split(',')[1].upper(), headingChoice.split(',')[2].upper()))
 
-    # Making a CSV file
-    file = open(
-        "HeadingScrapingProject2/CsvFiles/{}.csv".format(searchQuery), 'w')
-    writer = csv.writer(file)
-    df=pd.read_csv(r"HeadingScrapingProject2/CsvFiles/{}.csv".format(searchQuery))
-
     # Looping over Each Link to get desired heading tag
     for i in range(len(links)):
         driver.get('{}'.format(links[i]))
@@ -100,9 +98,9 @@ def Headings():
 
                 response = main.find_all(headingChoice)
                 for headings in response:
-                    hText = headings.text
-                    print(hText)
-                    writer.writerows=hText
+                    hr1Text = headings.text
+                    print(hr1Text)
+                    h1.append(hr1Text)
 
                 print(
                     "------------------------{} Ends-----------------------".format(links[i]))
@@ -114,11 +112,12 @@ def Headings():
                 for headings1 in response1:
                     hr1Text = headings1.text
                     print(hr1Text)
+                    h1.append(hr1Text)
 
                 for heading2 in response2:
                     hr2Text = heading2.text
                     print(hr2Text)
-                writer.writerow([hr1Text, hr2Text])
+                    h2.append(hr2Text)
 
                 print(
                     "------------------------{} Ends-----------------------".format(links[i]))
@@ -132,20 +131,19 @@ def Headings():
 
                     hr1Text = headings1.text
                     print(hr1Text)
-                    df['H1']=hr1Text
+                    h1.append(hr1Text)
 
                 for heading2 in response2:
 
                     hr2Text = heading2.text
                     print(hr2Text)
-                    df['H2']=hr2Text
+                    h2.append(hr2Text)
 
                 for heading3 in response3:
 
                     hr3Text = heading3.text
                     print(hr3Text)
-                    df['H3']=hr3Text
-                   
+                    h3.append(hr3Text)
 
                 print(
                     "------------------------{} Ends-----------------------".format(links[i]))
@@ -159,8 +157,9 @@ def Headings():
 
                 response = body.find_all(headingChoice)
                 for headings in response:
-                    hText = headings.text
-                    print(hText)
+                    hr1Text = headings.text
+                    print(hr1Text)
+                    h1.append(hr1Text)
 
                 print(
                     "------------------------{} Ends-----------------------".format(links[i]))
@@ -172,10 +171,12 @@ def Headings():
                 for headings1 in response1:
                     hr1Text = headings1.text
                     print(hr1Text)
+                    h1.append(hr1Text)
 
                 for heading2 in response2:
                     hr2Text = heading2.text
                     print(hr2Text)
+                    h2.append(hr2Text)
 
                 print(
                     "------------------------{} Ends-----------------------".format(links[i]))
@@ -189,21 +190,18 @@ def Headings():
 
                     hr1Text = headings1.text
                     print(hr1Text)
-                    df['H1']=hr1Text
-
+                    h1.append(hr1Text)
                 for heading2 in response2:
 
                     hr2Text = heading2.text
                     print(hr2Text)
-                    df['H2']=hr2Text
+                    h2.append(hr2Text)
 
                 for heading3 in response3:
 
                     hr3Text = heading3.text
                     print(hr3Text)
-                    df['H3']=hr3Text
-
-           
+                    h3.append(hr3Text)
 
                 print(
                     "------------------------{} Ends-----------------------".format(links[i]))
@@ -211,7 +209,12 @@ def Headings():
                 print("Heading Tag Not Valid and put , in between headings input  ")
                 print("Select from \n h1 \n h2 \n h3")
                 break
-        df.to_csv('/HeadingScrapingProject2/FinalCsv/{}.csv'.format(searchQuery))
+
+    df1 = pd.DataFrame({"H1": h1})
+    df2 = pd.DataFrame({"H2": h2})
+    df3 = pd.DataFrame({"H3": h3})
+    pd.concat([df1, df2, df3], axis=1).to_csv(
+        "HeadingScrapingProject2/CsvFiles/{}.csv".format(searchQuery), index=False)
 
 
 Headings()

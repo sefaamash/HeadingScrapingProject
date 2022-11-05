@@ -1,0 +1,47 @@
+......................H1'S ............................h1
+
+
+
+Functions Defined
+Compound Data Types
+Intuitive Interpretation
+All the Flow You’d Expect
+Quick & Easy to Learn
+------------------------https://www.python.org/ Ends-----------------------
+What Is Python Used For? A Beginner’s Guide
+------------------------https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python Ends-----------------------
+HTML and CSS for Python Developers
+------------------------https://realpython.com/html-css-python/ Ends-----------------------
+Python Syntax
+------------------------https://www.codecademy.com/learn/introduction-to-python-dvp/modules/python-syntax-dvp/cheatsheet Ends-----------------------
+How Long Does it Take to Learn Python? (+ Tips for Learning)
+------------------------https://www.coursera.org/articles/how-long-does-it-take-to-learn-python-tips-for-learning Ends-----------------------
+Python (programming language)
+------------------------https://en.wikipedia.org/wiki/Python_(programming_language) Ends-----------------------
+Python Tutorial
+------------------------https://www.w3schools.com/python/ Ends-----------------------
+
+
+
+
+Python Online Compiler
+
+
+
+------------------------https://www.programiz.com/python-programming/online-compiler/ Ends-----------------------
+Learn Python Programming
+More opportunities for you
+            to learn
+------------------------https://www.edx.org/learn/python Ends-----------------------
+Python
+------------------------https://www.codecademy.com/catalog/language/python Ends-----------------------
+Learn Python 2
+------------------------https://www.codecademy.com/learn/learn-python Ends-----------------------
+Introduction to Python
+------------------------https://www.datacamp.com/courses/intro-to-python-for-data-science Ends-----------------------
+Python Programming/Sequences
+------------------------https://en.m.wikibooks.org/wiki/Python_Programming/Sequences Ends-----------------------
+Python Functions
+------------------------https://www.programiz.com/python-programming/function Ends-----------------------
+Python range() Function
+------------------------https://www.w3schools.com/python/ref_func_range.asp Ends-----------------------
